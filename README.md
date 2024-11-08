@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-This repisitroy is meant to be a portfolio for work done while gaining my AAS degree in Cloud Computing and Application Development, as well as any relevant future projects as my career develops.
+This repisitroy is meant to be a portfolio for work done while gaining my AAS degree in Cloud Computing and Application Development, as well as any relevant future projects as my career develops. Some academic projects were turned in for a grade, rather than because I thought them wholly complete, and may continue to be worked on over time.
 
 <!---
 SteffTest94/SteffTest94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
