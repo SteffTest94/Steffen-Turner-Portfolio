@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+  <meta charset="utf-8">
+  <title>Log In Application</title>
+  <link rel="stylesheet" href="indexstyle.css">
+</head>
+<body>
+  <div id="timer"></div>
+  <div id="error"></div>
+  <form action="index.html" name="login" id="login">
+    Username: <input type="text" name="user"><br>
+    Password: <input type="password" name="password"><br>
+    <p id="wrong-info"></p>
+    <button type="submit">Login</button>
+  </form>
+  <select multiple hidden id="dropdown">
+    <option value="calculator" onclick="location.href='Calculator/calculator.html'">Use Calculator</option>
+    <option value="tictactoe" onclick="location.href='TicTacToe/tictactoe.html'">Play Tic-Tac-Toe</option>
+  </select>
+  <script src="application.js"></script>
+  
+</body>
+</html>

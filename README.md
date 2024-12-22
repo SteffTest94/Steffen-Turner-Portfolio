@@ -10,3 +10,7 @@ This section of the portfolio is for the webpages created from 2024, from variou
 ****XCode Applications (13) Section****
 
 This section of the portfolio is for applications created with Xcode 13. These applications were made while learning Swift and XCode 13, for the Swift Associate and Swift Certified User exams. As of 12/22/24, all files in this section must be opened in Xcode or a program capable of running Xcode for full functionality. 
+
+****Java Script Web Apps Section****
+
+This section of the portfolio is for web applications made with Java Script that are not attatched to fullstack services like AWS. They were originally created for function over form, and may be worked upon in the furture for better visual congruity. 
