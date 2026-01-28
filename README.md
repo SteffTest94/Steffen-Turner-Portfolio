@@ -17,4 +17,4 @@ This section of the portfolio is for web applications made with Java Script that
 
 01/28/2026
 ****Branches****
-New branches will be added based on the year work started. It will follow the format YYYYBranch.V.SV where YYYY = year that the branch started, V = version based on a single project being updated/created, and SV = subversion based on the session. For example, if I work on the first file of the 2026Branch for 2 hours, the branch commit would be 2026Branch.1.1 and if I work on it again later that same day for one hours, the comit would be 2026.1.2. The main branch will be updated without version info. 
+New branches will be added based on the year work started. It will follow the format YYYYBranch.V.SV where YYYY = year that the branch started, V = version based on a single project being updated/created, and SV = subversion based on the session. For example, if I work on the first file of the 2026work for 2 hours, the branch commit would be 2026work.1.1 and if I work on it again later that same day for one hours, the comit would be 2026.1.2. The main branch will be updated without version info. 
